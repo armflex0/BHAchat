@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523038149587",
+    "firebase_url": "https://bhachat-b95bf.firebaseio.com",
+    "project_id": "bhachat-b95bf",
+    "storage_bucket": "bhachat-b95bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523038149587:android:46b66ff423c91e06837d26",
+        "android_client_info": {
+          "package_name": "bhachat.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523038149587-gi3kf7ts66jhep8ge3j291uav8ti765a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoZzzlIt2DtkSYbCxGayWunJOjzB2gtpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523038149587-gi3kf7ts66jhep8ge3j291uav8ti765a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

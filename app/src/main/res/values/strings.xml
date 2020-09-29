@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">BHAchat</string>
+    <string name="registr"><u>Зарегистрироваться</u></string>
+    <string name="forgot_password"><u>Забыли свой пароль?</u></string>
+    <string name="login">Если уже есть аккаунт.<u>Войти</u></string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="planets_array">
+        <item>АФ-91</item>
+        <item>Б-91</item>
+        <item>Д-92</item>
+        <item>Д-95</item>
+        <item>И-91</item>
+        <item>И-92</item>
+        <item>К-91</item>
+        <item>АФ-81</item>
+        <item>Б-81</item>
+        <item>Д-82</item>
+        <item>Д-85</item>
+        <item>И-81</item>
+        <item>И-82</item>
+        <item>К-81</item>
+        <item>П-81</item>
+        <item>АФ-71</item>
+        <item>Б-71</item>
+        <item>Д-72</item>
+        <item>Д-75</item>
+        <item>И-71</item>
+        <item>И-72</item>
+        <item>К-71</item>
+        <item>П-71</item>
+        <item>АФ-61</item>
+        <item>Д-65</item>
+        <item>И-61</item>
+        <item>И-62</item>
+        <item>С-61</item>
+    </string-array>
+</resources>
